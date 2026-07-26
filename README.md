@@ -5,7 +5,7 @@
 A complete walkthrough of the application is available on LinkedIn.
 
 👉 **Watch Demo:**  
-https://www.linkedin.com/posts/YOUR-LINK-HERE
+https://rag-pdf-question-answering-ukte67kvhshp43jgjb3q6s.streamlit.app/
 
 A Retrieval-Augmented Generation (RAG) application built with **LangChain**, **ChromaDB**, **HuggingFace Embeddings**, and **Mistral AI**. The application allows users to upload PDF documents, stores them in a persistent vector database, and answers questions strictly from the uploaded documents.
 
